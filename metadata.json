@@ -1,0 +1,6 @@
+{
+  "name": "AZ-ZAHRA SERVICE - Sistem Manajemen Service HP & Keuangan",
+  "description": "Aplikasi manajemen service smartphone & tablet AZ-ZAHRA SERVICE: nota cetak A4 resmi, sistem login staf berpassword, dashboard statistik eksekutif owner, rekap keuangan dan laba rugi, serta sinkronisasi Google Sheets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
